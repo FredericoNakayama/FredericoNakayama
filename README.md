@@ -32,7 +32,6 @@ Trabalho no dia a dia com desenvolvimento e manutenção de apps em PowerApps, P
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Material 3](https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white)
 
 Desafio proposto pela FIAP em parceria com a EuroFarma/Lactare para equipes do 3º ano de SI, com soluções concorrendo entre si. Conecta mães lactantes aos bancos de leite humano das redes Lactare e rBLH: conteúdo educativo sobre extração/armazenamento, busca de bancos com mapa e agendamento por telefone, além de um dashboard administrativo com indicadores da rede.
 
@@ -43,7 +42,7 @@ Desafio proposto pela FIAP em parceria com a EuroFarma/Lactare para equipes do 3
 ### [SalvaGuarda](https://github.com/FredericoNakayama/SalvaGuarda---GS)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![go_router](https://img.shields.io/badge/go__router-4285F4?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 Desafio anual da FIAP com tema de satélites de exploração espacial, desenvolvido com um colega. Monitoramento de desastres naturais: alertas de enchente/queimada/tempestade por região, mapa de risco, chatbot de emergência com orientações de segurança, e um painel de autoridades para acompanhar usuários em risco e emitir alertas.
 

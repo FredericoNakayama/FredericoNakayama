@@ -64,7 +64,7 @@ Global Solution FIAP 2026 (tema CitizenTech), desenvolvida com um colega. App mo
 ## Outros projetos
 
 - **[NutriLink](https://github.com/FredericoNakayama/NutriLink---Sprint-3-Flutter)** (Flutter · Kotlin) — desafio FIAP com EuroFarma/Lactare: conecta mães lactantes aos bancos de leite humano, com conteúdo educativo, busca de bancos com mapa e dashboard administrativo. [Vídeo de demonstração](https://www.youtube.com/watch?v=2Kv0OWi2fUo). Dados mockados.
-- **[SalvaGuarda](https://github.com/FredericoNakayama/SalvaGuarda---GS)** (Flutter · Kotlin) — desafio anual da FIAP: monitoramento de desastres naturais com alertas por região, mapa de risco, chatbot de emergência e painel de autoridades. Dados mockados.
+- **[SalvaGuarda](https://github.com/FredericoNakayama/SalvaGuarda---GS-Flutter)** (Flutter · Kotlin) — desafio anual da FIAP: monitoramento de desastres naturais com alertas por região, mapa de risco, chatbot de emergência e painel de autoridades. Dados mockados.
 
 ## Contato
 
